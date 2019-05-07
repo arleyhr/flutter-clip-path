@@ -1,4 +1,7 @@
-# drawing
+# Flutter clip path
+
+## Custom App bar
+![custom-app-bar](https://github.com/arleyhr/flutter-clip-path/blob/master/screenshots/custom-app-bar.png?raw=true)
 
 A new Flutter project.
 
